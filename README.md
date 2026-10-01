@@ -11,3 +11,5 @@ Topics:
 - Push and Pull
 - Pull Requests
 - Collaboration
+Learning Git step by step.
+
